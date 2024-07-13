@@ -20,22 +20,23 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+Ethical and Responsible AI: Privacy and Data Security
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+This is a podcast about Ethical and Responsible AI: Privacy and Data Security. Utilizing AI technology, we explore pivotal topics within the context of the Fourth Industrial Revolution, particularly the intersection of Artificial Intelligence and Data Security.
 
 ## 🤖 Tecnologias Utilizadas
 Liste as IAs Generativas e outras ferramentas usadas
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Initially, I used ChatGPT to give me ideias and produce the text. Then, ElevenLabs was used to produce the audio using AI. Finally, I used various online softwares to edit and put music on my podcast. 
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
+I had a good and interesting experience creating a full AI-made content. I can see that technology will help us all because it is a support to creation nowadays. Thus, this will impact a lot in content creations for educational purposes, for example.
 ```
 
 ### Exemplos e Insigths
