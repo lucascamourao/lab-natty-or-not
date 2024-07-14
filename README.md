@@ -1,51 +1,48 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+# Natural or Fake Natty? How to Succeed in the Era of Generative AIs
 
-## 🚀 Introdução
-
+## 🚀 Introduction
 > Woooow! Look at this 👀
 
 Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
+## 🎯 Challenge 💪🤓
 
-### Objetivos
+### Objectives
 
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
+1. **Explore Generative AIs**: Use these technologies to create content that is as realistic as possible. Be creative! You can produce images, texts, audios, videos, or combinations of all these!
+2. **Project Portfolio**:
+    1. Fork this repository, creating a copy in your personal GitHub;
+    2. Edit your README with your project details, following our [Template](#template) (just copy, paste, and fill it out);
+    3. Submit your repository link on the DIO platform. That's it, you've just strengthened your project portfolio on GitHub and DIO 🚀
+3. **Network Effect**: Share your results on social media with the hashtag #LabDIONattyOrNot. Don't forget to tag us: [DIO](https://www.linkedin.com/school/dio-makethechange) and [falvojr](https://www.linkedin.com/in/falvojr).
 
 ### Template
 
 ```markdown
-Ethical and Responsible AI: Privacy and Data Security
+# Title
 
 ## 📒 Descrição
 This is a podcast about Ethical and Responsible AI: Privacy and Data Security. Utilizing AI technology, we explore pivotal topics within the context of the Fourth Industrial Revolution, particularly the intersection of Artificial Intelligence and Data Security.
 
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+## 🤖 Technologies Used
+-
 
 ## 🧐 Processo de Criação
-Initially, I used ChatGPT to give me ideias and produce the text. Then, ElevenLabs was used to produce the audio using AI. Finally, I used various online softwares to edit and put music on my podcast. 
-
+/
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
-I had a good and interesting experience creating a full AI-made content. I can see that technology will help us all because it is a support to creation nowadays. Thus, this will impact a lot in content creations for educational purposes, for example.
 ```
 
-### Exemplos e Insigths
+### Examples and Insights
 
 - [E-BOOK](/exemplos/E-BOOK.md)
 - [Podcast](/exemplos/PODCAST.md)
 - [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
 
-## Links Interessantes
+## Interesting Links
 
 [Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
 
